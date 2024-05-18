@@ -8,4 +8,4 @@ Although we cannot predict when exactly the quantum computer is ready to launch 
 
 Goverment agencies, banks, telecommunications, automotive industry, are among the examples that are worried about this vulnerability. To mitigate this, post quantum cryptography is currently urgent need to deploy on classical computers so that critical data intercepted now cannot be attacked even in the era of quantum computers.
 
-We are specialized on post quantum cryptography, contact us for more details: pqmigrate@gmail.com
+We are specialized on post quantum cryptography, contact us for more details: <pqmigrate@gmail.com>
