@@ -16,6 +16,6 @@ permalink: /about/
 
 
 [//]: <> [jekyll-organization]: https://github.com/jekyll%
-We are a group of PhD with expertise in cryptography and secure protocols. We provide consultancy services for Post Quantum Cryptography Migration.
+We are a group of PhDs, located in Singapore and Europe, with expertise in cryptography and secure protocols. We provide consultancy services for Post Quantum Cryptography Migration.
 
 Contact Information: pqmigrate@gmail.com

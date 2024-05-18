@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "What Services We Provide for Post Quantum Cryptography Migrations"
+title:  "Services for Post Quantum Cryptography Migrations"
 date:   2024-05-18 11:10:21 +0800
 categories: jekyll update
 ---
 We provide consultancy services for post quantum cryptography migrations for your awesome applications.
+We have full range knowledge of Post Quantum Cryptography (PQC) and can make your transition to PQC most smoothly.
 Please contact us for more details: pqmigrate@gmail.com
 
 [//]: <> You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
